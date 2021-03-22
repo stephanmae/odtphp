@@ -3,6 +3,7 @@
 namespace Odtphp;
 
 use Odtphp\SegmentIterator;
+use Odtphp\Exceptions\SegmentException;
 
 /**
  * Class for handling templating segments with odt files
